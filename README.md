@@ -1,7 +1,7 @@
 # :hand: Hi, I’m @xmarzl
 - :arrow_double_up: In education
-- :bulb: Interested in Perl, Bash, Rust and Python - Systems programming
-- :seedling: Currently learning perl and rust
+- :bulb: Interested in Perl, Rust, Python and Bash - Systems programming & monitoring
+- :seedling: Currently learning perl, python, opnsense and icinga2
 - :email: How to reach me: info@mardir.de
 
 <!---
