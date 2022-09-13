@@ -13,7 +13,7 @@ But I rather think my next possible job will be something with music or with can
 Programming should be a hobby.  
 Not something where my customer have to pay 120minutes of work for a windows installation which is done in under 30 minutes.
 
-(I really hope this will be empty)
+(I really hope this will be empty)  
 My future me:
 
 
