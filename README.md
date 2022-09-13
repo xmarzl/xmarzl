@@ -6,7 +6,7 @@
 - :email: How to reach me: info@mardir.de
 - :earth_americas: If you're interested in my journey, visit: mardir.de
 
-08.2022: 
+08.2022:  
 If I ever come back to a place, where I think that sitting in front of a notebook is good and healthy, I will be on my own. No education. No Boss. I would try to create a community where everyone helps the others. But I believe more, that my next possible job will be something with music or with candles. Programming should be a hobby.
 
 (I really hope this will be empty)
